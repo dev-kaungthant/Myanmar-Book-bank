@@ -1,0 +1,67 @@
+body{
+    background-color: #1a1a1a;
+}
+.logo_txt{
+    text-align: center;
+    font-family: 'Sofia', sans-serif;
+    color: aliceblue;
+    margin-top: 50px;
+}
+
+.book_btn{
+    margin-top: 20px;
+    background-color:#218B82;
+}
+.author_btn{
+    margin-top: 20px;
+    background-color:#809bce;
+}
+a{
+    color: white;
+}
+
+.book_name_alph{
+    background-color: #218B82;
+    text-align: center;
+    padding: 50px;
+    line-height: 3em;
+    margin-top: 50px;
+    border-radius: 10px;
+    display:none;
+}
+
+.author_name_alph{
+    background-color: #809bce;
+    text-align: center;
+    padding: 50px;
+    line-height: 3em;
+    margin-top: 50px;
+    border-radius: 10px;
+    display:;
+}
+
+/* book.html */
+.home_btn{
+    text-align: center;
+    margin-top: 50px;
+}
+.book_display_div{
+    margin-top: 50px;
+}
+
+.book{
+    display: block;
+    line-height: 3em;
+    background-color: black;
+    padding: 10px 5px 10px 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+
+.sample{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+}
+
+/* popup css code */
